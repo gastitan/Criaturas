@@ -10,7 +10,7 @@ public class Criaturas {
 	{
 		PanelCreacion pc = new PanelCreacion();
 		JFrame frame = pc.crearPantalla();
-
+ 
 		frame.setVisible(true);
 	}
 
